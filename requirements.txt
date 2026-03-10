@@ -1,0 +1,4 @@
+# Python is 3.13.12 for this PoC
+requests==2.32.5
+python-dotenv==1.2.2
+pandas==3.0.1
